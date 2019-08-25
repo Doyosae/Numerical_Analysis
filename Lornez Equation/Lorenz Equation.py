@@ -1,17 +1,9 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[9]:
-
-
 import numpy as np
 from matplotlib import animation
 from matplotlib import pyplot as plt
 # from matplotlib import colors as cnames
 # from mpl_toolkits.mplot3d import Axes3D
 
-
-# In[55]:
 
 
 def Build_DrawingGraph(XS, YS, ZS):
@@ -30,6 +22,7 @@ def Build_DrawingGraph(XS, YS, ZS):
     ax.set_zlabel("Z-axis")
 
     plt.show()
+    
     
 def Build_CalculateEquation(class_name):
     XS = np.empty(CalculateSteps+1)
@@ -72,10 +65,7 @@ class Lorenz_Equation():
         return outputs
 
 
-# In[56]:
-
 
 Lorenz = Lorenz_Equation(10, 8./3, 28)
 Build_CalculateEquation(Lorenz)
 Build_DrawingGrph(XS, YS, ZS)
-
