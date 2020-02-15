@@ -1,2 +1,2 @@
-# Summary
+# Introduction
 누군가의 요청으로 급히 작성한 복소함수 단순 수치 계산
