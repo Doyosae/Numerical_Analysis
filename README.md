@@ -8,10 +8,9 @@ Python 3.7.6
 # Sample
 ## 2D Ising Lattice Model (Metropolis-Hastings algorithm)  
 - [Link](https://www.asc.ohio-state.edu/braaten.1/statphys/Ising_MatLab.pdf)  
-![sample](./2D Ising Model/sample/sample.png)
-![sample](./2D Random Walk/sample/sample.png)
+![sample](https://github.com/Doyosae/Numerical_Simulation/blob/master/2D%20Ising%20Model/sample/demo1.gif)
+![sample](https://github.com/Doyosae/Numerical_Simulation/blob/master/2D%20Ising%20Model/sample/demo2.gif)
 ## Random Walk
-![sample]
-Lorenz Equation
-## Lorenze Equation
-![sample](./Lorenze Equation/sample/sample.png)
+![sample](https://github.com/Doyosae/Numerical_Simulation/blob/master/2D%20Random%20Walk/sample/sample1.png)
+## Lorenz Equation
+![sample](https://github.com/Doyosae/Numerical_Simulation/blob/master/Lorenz%20Equation/sample/sample.png)
